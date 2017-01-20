@@ -1,10 +1,10 @@
 # Site settings
 title: 简单写，简单说
-SEOTitle: 黄玄的博客 | Hux Blog
+SEOTitle: 简单写，简单说 | SIMPLE Blog
 header-img: img/home-bg.jpg
 email: cdx0062009@163.com
 description: "没有任何目的的随手一写"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+keyword: "简单写, 简单, 简单说, 简单写，简单说, SIMPLE Blog, SIMPLE, @cdx0062009, Blog, 博客, 个人网站, 互联网, 前端"
 url: "https://cdx0062009.github.io/ "              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
